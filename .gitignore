@@ -1,0 +1,37 @@
+# Ambiente virtual
+nfse-venv/
+venv/
+.env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Arquivos de credenciais (NÃO suba para o repositório!)
+credentials/
+*.json
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos do sistema
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos do Postman (se não quiser versionar)
+postman/
+*.postman_collection.json
