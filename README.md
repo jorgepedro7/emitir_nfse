@@ -47,7 +47,7 @@ EMITIR_NFSE/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/emitir_nfse.git
+git clone https://github.com/jorgepedro7/emitir_nfse.git
 cd emitir_nfse
 
 # Crie e ative o ambiente virtual
